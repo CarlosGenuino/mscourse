@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="RUN ALL MS" type="CompoundRunConfigurationType">
+    <toRun name="HrApiGatewayZuulApplication" type="Application" />
     <toRun name="HrEurekaServerApplication" type="Application" />
     <toRun name="HrPayrollApplication" type="Application" />
     <toRun name="HrWorkerApplication" type="Application" />
-    <toRun name="HrWorkerApplication (1)" type="Application" />
     <method v="2" />
   </configuration>
 </component>
